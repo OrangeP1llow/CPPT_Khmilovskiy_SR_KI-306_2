@@ -1,0 +1,8 @@
+Reloaded with 10 rounds.
+Fired 10 bullets in automatic mode.
+Fired 9 bullets in 3 bursts.
+Fired 21 bullets in 21 single shots.
+Caliber set to 7.62 mm.
+Scope is installed: 4x
+Muffler is installed: baffle
+Enlarged magazine is installed: Default+10
