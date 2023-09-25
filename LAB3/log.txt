@@ -1,0 +1,3 @@
+Fired 10 bullets in 10 single shots.
+Fired 9 bullets in 3 bursts.
+Fired 11 bullets in automatic mode.
